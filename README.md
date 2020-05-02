@@ -1,2 +1,0 @@
-# MaterialUiGrid
-Created with CodeSandbox
